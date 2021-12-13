@@ -1,6 +1,8 @@
-# FORTH2020 Group Meetings Presentations
+# FORTH2020 Group Zoom Meetings Presentations
 
-Presentations from FORTH2020 group meetings.
+You will find here the material (slidedeck,...) for past FORTH2020 Group Zoom Meetings.
+
+Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
 ## Meeting 17 - Dec 11th, 2021
 
