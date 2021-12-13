@@ -8,14 +8,14 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ [Recording of the meeting](https://www.youtube.com/watch?v=hjeyjLjj5nc)
 
-* "RiscV Forth" by [Adrian McMenamin](https://github.com/mcmenaminadrian)
+* ["RiscV Forth"](https://github.com/forth2020/zoom-presentations/raw/main/2021-12-11/riscyforth.pdf) by [Adrian McMenamin](https://github.com/mcmenaminadrian)
 * "Tutorial: Arrays: automatic resizing, RAM/ROM" by [Ulrich Hoffmann](https://github.com/uho)
 * "Z80 Forth for the spectrum" by [Matteo Vitturi](https://github.com/mattsteeldue)
 * ["Implementing FORTH on my 6502 computer"](https://github.com/adumont/hb6502/tree/main/forth/presentation) by [Alex Dumont](https://github.com/adumont)
 * "A Poor Man's Floating Point " by [Bill Ragsdale](https://github.com/BillRagsdale)
 * "A Virtual Java Machine or a Real Forth Machine?" Dr. Ting
 * ["Forthmobile on the ESP32"](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by Atle Ramsly 
-* ["ESP32Forth for Beginners"](https://github.com/forth2020/zoom-presentations/blob/main/2021-12-11/ESP32forth%20for%20beginners-2.pdf) by Christian Hinse
+* ["ESP32Forth for Beginners"](https://github.com/forth2020/zoom-presentations/raw/main/2021-12-11/ESP32forth%20for%20beginners-2.pdf) by Christian Hinse
 * "ESP32Forth workshop" by Peter Forth and Christian Hinse
 
 ## Meeting 16 - Nov 27th, 2021
