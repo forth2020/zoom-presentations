@@ -1,6 +1,6 @@
 # FORTH2020 Zoom Meetings Presentations
 
-You will find here the material (slidedeck,...) for past FORTH2020 Zoom Meetings.
+You will find here the material (slidedeck,...) for the past FORTH2020 Zoom Meetings.
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
@@ -10,7 +10,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 * ["RiscV Forth"](https://github.com/forth2020/zoom-presentations/raw/main/2021-12-11/riscyforth.pdf) by [Adrian McMenamin](https://github.com/mcmenaminadrian)
 * "Tutorial: Arrays: automatic resizing, RAM/ROM" by [Ulrich Hoffmann](https://github.com/uho)
-* "Z80 Forth for the spectrum" by [Matteo Vitturi](https://github.com/mattsteeldue)
+* ["Z80 Forth for the spectrum"](https://github.com/mattsteeldue/vforth-next) by [Matteo Vitturi](https://github.com/mattsteeldue)
 * ["Implementing FORTH on my 6502 computer"](https://github.com/adumont/hb6502/tree/main/forth/presentation) by [Alex Dumont](https://github.com/adumont)
 * "A Poor Man's Floating Point " by [Bill Ragsdale](https://github.com/BillRagsdale)
 * "A Virtual Java Machine or a Real Forth Machine?" Dr. Ting
@@ -20,7 +20,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 16 - Nov 27th, 2021
 
-Forth En Español & Portugues
+Forth en Español & Portugues
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=h69ljgyuRfk)
 
