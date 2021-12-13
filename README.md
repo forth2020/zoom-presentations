@@ -15,7 +15,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 * "A Poor Man's Floating Point " by [Bill Ragsdale](https://github.com/BillRagsdale)
 * "A Virtual Java Machine or a Real Forth Machine?" Dr. Ting
 * ["Forthmobile on the ESP32"](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by Atle Ramsly 
-* ["ESP32Forth for Beginners"](2021-12-11/ESP32forth for beginners-2.pdf) by Christian Hinse
+* ["ESP32Forth for Beginners"](https://github.com/forth2020/zoom-presentations/blob/main/2021-12-11/ESP32forth%20for%20beginners-2.pdf) by Christian Hinse
 * "ESP32Forth workshop" by Peter Forth and Christian Hinse
 
 ## Meeting 16 - Nov 27th, 2021
