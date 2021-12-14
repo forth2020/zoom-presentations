@@ -28,3 +28,9 @@ Forth en Español & Portugues
 * "Msx  computer F83"  by [Jorge Janaite Neto](https://github.com/janaite)
 * "Tek90 Z80 Forth clone brasileiro do  Spectrum" by Ricardo Michel
 * "ESP32Forth instalación & workshop" by Peter Forth and Christian Hinse
+
+## Older Meetings
+
+Presentations from older meetings, pending to be clasified.
+
+* ["Z79Forth, a Journey into Neo Retrocomputing"](https://github.com/forth2020/zoom-presentations/raw/main/unclassified/Z79Forth.pdf) by [François Laagel](https://github.com/frenchie68) [🔗](https://github.com/frenchie68/Z79Forth)
