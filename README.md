@@ -33,4 +33,4 @@ Forth en Español & Portugues
 
 Presentations from older meetings, pending to be clasified.
 
-* ["Z79Forth, a Journey into Neo Retrocomputing"](https://github.com/forth2020/zoom-presentations/raw/main/unclassified/Z79Forth.pdf) by [François Laagel](https://github.com/frenchie68) [🔗](https://github.com/frenchie68/Z79Forth)
+* ["Z79Forth, a Journey into Neo Retrocomputing"](https://github.com/forth2020/zoom-presentations/raw/main/unclassified/Z79Forth.pdf) by [François Laagel](https://github.com/frenchie68) [📁](https://github.com/frenchie68/Z79Forth)
