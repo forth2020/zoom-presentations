@@ -1,6 +1,6 @@
 # FORTH2020 Zoom Meetings Presentations
 
-You will find here the material (slidedeck,...), and link to the presenters of some of the presentations of the past FORTH2020 Zoom Meetings.
+You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to the recordings, material presented (slidedeck,...), and links to the presenters.
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
