@@ -15,7 +15,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 * ["Forthmobile on the ESP32"](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by Atle Ramsly
 * SDcard support for ESP32forth by PeterForth
 * [Into Fignition, it's purpose and architectural decisions](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
-* [Gameboy Advance Programming in FORTH](https://github.com/stuij/rath), by [Ties Stuij](https://www.facebook.com/stuij)
+* [Gameboy Advance Programming in FORTH](https://github.com/forth2020/zoom-presentations/raw/main/2022-02-18/GBA-Forth-presentation.pdf) [ðŸ”—](https://github.com/stuij/rath), by [Ties Stuij](https://www.facebook.com/stuij)
 * JavaForthMachine-1 by [Dr. C. H. Ting](https://www.facebook.com/groups/2225595150855239/user/100002132131119)
 
 ## Meeting 17 - Dec 11th, 2021
