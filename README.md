@@ -8,11 +8,15 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 📽 [Recording of the meeting](https://youtu.be/c0w4tEaQk3Q)
 
-* Presentation of Andrea Spiess, ESP32 and Embedded systems world expert
+The main topic of this meeting was the ESP32, starting with a presentation of the famous ESP32 Youtuber Andrea Spiess. Next several presentation of FORTH2020 members show how they leverage the ESP32 platform in FORTH with ESP32Forth for their DIY projects. Then Brad Nelson gaves some updates on the latest ESP32Forth development. After that, we have a presentation of Fignition single board educational computer, and another about programming the Gameboy Advance in FORTH. We wrap up the meeting with Dr Ting's latest updates on his JavaForthMachine.
+
+* Presentation of [Andrea Spiess](https://www.youtube.com/c/AndreasSpiess), ESP32 and Embedded systems world expert
 * MC6800 Emulator in ESP32forth, by Jan Langevad
 * ESP32forth computer by [Pablo Hugo Reda](https://github.com/phreda4)
+* Playing music tunes on the ESP32 with ESP32Forth, by [Ralph Lundvall](https://www.facebook.com/ralph.lundvall.1)
 * [Latest ESP32forth updates](https://flagxor.github.io/svfig-talks/ftt-2022-02-12/) by [Brad Nelson](https://github.com/flagxor)
-* ["Forthmobile on the ESP32"](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by Atle Ramsly
+* Building a universal remote controller with ESP32Forth, by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
+* [Forthmobile on the ESP32](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by [Atle Ramsly](https://www.facebook.com/groups/2225595150855239/user/648051625)
 * SDcard support for ESP32forth by PeterForth
 * [Into Fignition, it's purpose and architectural decisions](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
 * [Gameboy Advance Programming in FORTH](https://github.com/forth2020/zoom-presentations/raw/main/2022-02-18/GBA-Forth-presentation.pdf) [🔗](https://github.com/stuij/rath), by [Ties Stuij](https://www.facebook.com/stuij)
