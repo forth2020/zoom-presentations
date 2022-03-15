@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 19 - March 12th, 2022
 
-📽 Recording of the meeting - (Pending to be published)
+📽  [Recording of the meeting](https://www.youtube.com/watch?v=5MVHa3TPgUE)
 
 * Chat with [Brad Rodriguez](https://www.bradrodriguez.com/), the author of [Moving FORTH](https://www.bradrodriguez.com/papers/moving1.htm).
   * [A Brief Summary of the MSP430](https://github.com/forth2020/zoom-presentations/raw/main/2022-03-12/msp430-intro.pdf)
