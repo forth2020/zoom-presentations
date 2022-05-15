@@ -28,7 +28,8 @@ Once again an incredible meeting, this time packed with lots of implementation r
 * VolksForth - 35 years later, by Ulrich Hofmann
 * [Colorforth in 2022](https://github.com/forth2020/zoom-presentations/raw/main/2022-04-09/colorForth_Forth2020_cf2022_Presentation.pptx), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
 * Forth Meets WalMart, by [Bill Ragsdale](https://github.com/BillRagsdale)
-* News about  ESP32forth development, Forth2020 members show what they are working on, with [Brad Nelson](https://github.com/flagxor), Jos Ven , Jan Lagevaad, [PeterForth](https://github.com/PeterForth)
+* [News about  ESP32forth development](https://flagxor.github.io/svfig-talks/ftt-2022-04-09/) by [Brad Nelson](https://github.com/flagxor)
+* Forth2020 members show what they are working on, with Jos Ven , Jan Lagevaad, [PeterForth](https://github.com/PeterForth)
 
 ## Meeting 19 - March 12th, 2022
 
