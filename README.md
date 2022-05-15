@@ -20,7 +20,7 @@ Once again an incredible meeting, this time packed with lots of implementation r
 
 ## Meeting 21 - April 9th, 2022
 
-📽 Recording of the meeting (Link pending)
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=krRV3ZVQ8Qs&t=7920s)
 
 * Demo of FORTH^3, by Scott McCallum
 * Rapid Prototyping and hardware debugging with Forth, by Peter Jackaky
