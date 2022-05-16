@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 22 - May 14th, 2022
 
-📽 Recording of the meeting (Link pending)
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=jJ7XDzRJuVk)
 
 Once again an incredible meeting, this time packed with lots of implementation related presentations, some on the architectural and hardware side, and other more on the software side.
 
