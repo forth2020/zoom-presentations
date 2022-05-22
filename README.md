@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 23 - May 21st, 2022
 
-📽 Recording of the meeting (pending link)
+📽 Recording of the meeting [Part 1](https://www.youtube.com/watch?v=Ii0ZxzXt83U) [Part 2](https://www.youtube.com/watch?v=KiPzqJCL7Ts)
 
 Spanish and Portuguese meeting, with a few english presentations.
 
