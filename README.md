@@ -4,6 +4,20 @@ You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
+## Meeting 23 - May 21st, 2022
+
+📽 Recording of the meeting (pending link)
+
+Spanish and Portuguese meeting, with a few english presentations.
+
+- Esp32Forth desenvolvimento de um jogo, by Ricardo Michel
+- Programando en Forth/R3, by [Pablo Hugo Reda](https://github.com/phreda4)			
+- Benchmarking ESP32forth, by Jason C-J Tay
+- Handling interupts in Forth on ZXSpectrum, by [Matteo Vitturi](https://github.com/mattsteeldue)
+- ESP32-Superexpander board in Forth, by Atle Ramsly
+- [Canal TecnoReBot, videos de ESP32forth en Español](https://www.youtube.com/c/TecnoReBot/search?query=forth), by Jose Maria Mendez Ruiz
+- [ILI9488 3.5 display in Esp32Forth](https://esp32forth.forth2020.org/projects-1#h.bk5uz0wq7g44), by [PeterForth](https://github.com/PeterForth)
+
 ## Meeting 22 - May 14th, 2022
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=jJ7XDzRJuVk)
@@ -51,7 +65,7 @@ The main topic of this meeting was the ESP32, starting with a presentation of th
 * Playing music tunes on the ESP32 with ESP32Forth, by [Ralph Lundvall](https://www.facebook.com/ralph.lundvall.1)
 * [Latest ESP32forth updates](https://flagxor.github.io/svfig-talks/ftt-2022-02-12/) by [Brad Nelson](https://github.com/flagxor)
 * [Building a universal remote controller with cForth](https://github.com/forth2020/zoom-presentations/raw/main/2022-02-18/RemoteController.pdf), by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
-* [Forthmobile on the ESP32](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by [Atle Ramsly](https://www.facebook.com/groups/2225595150855239/user/648051625)
+* [Forthmobile on the ESP32](https://esp32forth.forth2020.org/projects-2/autonomous-rover-forthmobile) by Atle Ramsly
 * SDcard support for ESP32forth by [PeterForth](https://github.com/PeterForth)
 * [Into Fignition, it's purpose and architectural decisions](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
 * [Gameboy Advance Programming in FORTH](https://github.com/forth2020/zoom-presentations/raw/main/2022-02-18/GBA-Forth-presentation.pdf) [🔗](https://github.com/stuij/rath), by [Ties Stuij](https://www.facebook.com/stuij)
