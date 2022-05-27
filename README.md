@@ -12,7 +12,7 @@ Spanish and Portuguese meeting, with a few english presentations.
 
 - Esp32Forth desenvolvimento de um jogo, by Ricardo Michel
 - Programando en Forth/R3, by [Pablo Hugo Reda](https://github.com/phreda4)			
-- Benchmarking ESP32forth, by Jason C-J Tay
+- Benchmarking ESP32forth, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - Handling interupts in Forth on ZXSpectrum, by [Matteo Vitturi](https://github.com/mattsteeldue)
 - ESP32-Superexpander board in Forth, by Atle Ramsly
 - [Canal TecnoReBot, videos de ESP32forth en Español](https://www.youtube.com/c/TecnoReBot/search?query=forth), by Jose Maria Mendez Ruiz
@@ -38,7 +38,7 @@ Once again an incredible meeting, this time packed with lots of implementation r
 
 * Demo of FORTH^3, by Scott McCallum
 * Rapid Prototyping and hardware debugging with Forth, by Peter Jackaky
-* Benchmarks with Esp32forth, by Jason C-J Tay
+* Benchmarks with Esp32forth, by [Jason C-J Tay](https://github.com/Trozodejamon)
 * VolksForth - 35 years later, by Ulrich Hofmann
 * [Colorforth in 2022](https://github.com/forth2020/zoom-presentations/raw/main/2022-04-09/colorForth_Forth2020_cf2022_Presentation.pptx), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
 * Forth Meets WalMart, by [Bill Ragsdale](https://github.com/BillRagsdale)
