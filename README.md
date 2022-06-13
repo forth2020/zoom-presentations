@@ -4,6 +4,19 @@ You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
+## Meeting 24 - June 11th, 2022
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=ptspkjahWPE)
+
+- FPGA forth microcore, by Klaus Schleisiek
+- TTL computer in Forth (2nd part), by Andrew Holme
+- Flash transition layer in [Fignition](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
+- A modular MODBUS Server with STM8 eForth, by Thomas Goeppel
+- Esp32 Superexpander, by [Atle Ramsli](https://github.com/turnimator)
+- [ILI9488 3.5 display in Esp32Forth](https://esp32forth.forth2020.org/projects-1#h.bk5uz0wq7g44), by [PeterForth](https://github.com/PeterForth)
+- [ESP32forth Update June 2022](https://flagxor.github.io/svfig-talks/ftt-2022-06-11/#0), by [Brad Nelson](https://github.com/flagxor)
+- Colorforth in 2022 - Part 3, by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
+
 ## Meeting 23 - May 21st, 2022
 
 📽 Recording of the meeting [Part 1](https://www.youtube.com/watch?v=Ii0ZxzXt83U) [Part 2](https://www.youtube.com/watch?v=KiPzqJCL7Ts)
