@@ -8,8 +8,8 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ [Recording of the meeting](https://www.youtube.com/watch?v=ptspkjahWPE)
 
-- FPGA forth microcore, by Klaus Schleisiek
-- TTL computer in Forth (2nd part), by Andrew Holme
+- [FPGA Forth microcore](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-06-11/uCore-overview.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- [Mark 1 FORTH Computer](http://www.aholme.co.uk/Mk1/Architecture.htm), by [Andrew Holme](http://www.aholme.co.uk)
 - Flash transition layer in [Fignition](https://sites.google.com/site/libby8dev/fignition) by [Julian Skidmore](https://github.com/Snial)
 - A modular MODBUS Server with STM8 eForth, by Thomas Goeppel
 - Esp32 Superexpander, by [Atle Ramsli](https://github.com/turnimator)
