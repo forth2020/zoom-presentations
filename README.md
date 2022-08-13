@@ -10,10 +10,10 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 - MECRISP Demo, by [Ulrich Hoffmann](https://github.com/uho)
 - NOF a tiny file system for SPI Flash chips, by Willem Ouwerkerk
-- Demo of FPGA Kernels with Forth, by Klaus Kohl Schoppe
-- μCore, VHDL Code and Structure Part 1, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- [FPGA Kernels with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-08-13/20220813_FPGA_Forth.pdf), by Klaus Kohl Schoppe
+- [μCore, VHDL Code and Structure Part 1](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-08-13/uCore-VHDL-part1.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Tricks and Hints when Porting Forth Code, by [François Laagel](https://github.com/frenchie68)
-- Tutorial of SOCKETS in ESP32forth, by Brad Nelson
+- Tutorial of SOCKETS in ESP32forth, by [Brad Nelson](https://github.com/flagxor)
 
 ## Meeting 25 - July 9th, 2022
 
