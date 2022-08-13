@@ -4,6 +4,29 @@ You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
+## Meeting 26 - August 13th, 2022
+
+📽 [Recording of the meeting]()
+
+- MECRISP Demo, by [Ulrich Hoffmann](https://github.com/uho)
+- NOF a tiny file system for SPI Flash chips, by Willem Ouwerkerk
+- Demo of FPGA Kernels with Forth, by Klaus Kohl Schoppe
+- μCore, VHDL Code and Structure Part 1, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- Tricks and Hints when Porting Forth Code, by [François Laagel](https://github.com/frenchie68)
+- Tutorial of SOCKETS in ESP32forth, by Brad Nelson
+
+## Meeting 25 - July 9th, 2022
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=f4TWdluKzh4)
+
+- FRED Rapid Embedded Development for Mecrisp, by Peter Jackaky
+- μForth cross-compiler, μCore's assembler, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- Data Structures in Forth: Let's go for objects, by [Ulrich Hoffmann](https://github.com/uho)
+- Building A Wordle Tool Kit, by Bill Ragsdale
+- Zeptoforth news & the browser terminal, by Travis Bemann
+- [Database for an Expert System](https://github.com/dicpeynado/simple-forth-expert), by [Demitri Peinado](https://github.com/dicpeynado)
+- Proving the Meta-II Compiler in 2 byte cell, by [François Laagel](https://github.com/frenchie68)
+
 ## Meeting 24 - June 11th, 2022
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=ptspkjahWPE)
@@ -52,7 +75,7 @@ Once again an incredible meeting, this time packed with lots of implementation r
 * Demo of FORTH^3, by Scott McCallum
 * Rapid Prototyping and hardware debugging with Forth, by Peter Jackaky
 * Benchmarks with Esp32forth, by [Jason C-J Tay](https://github.com/Trozodejamon)
-* VolksForth - 35 years later, by Ulrich Hofmann
+* VolksForth - 35 years later, by [Ulrich Hoffmann](https://github.com/uho)
 * [Colorforth in 2022](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-04-09/colorForth_Forth2020_cf2022_Presentation.pptx), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
 * Forth Meets WalMart, by [Bill Ragsdale](https://github.com/BillRagsdale)
 * [News about  ESP32forth development](https://flagxor.github.io/svfig-talks/ftt-2022-04-09/) by [Brad Nelson](https://github.com/flagxor)
