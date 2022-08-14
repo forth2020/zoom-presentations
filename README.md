@@ -20,7 +20,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=f4TWdluKzh4)
 
 - FRED Rapid Embedded Development for Mecrisp, by Peter Jackaky
-- μForth cross-compiler, μCore's assembler, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- [μForth cross-compiler, μCore's assembler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-07-09/uForth.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Data Structures in Forth: Let's go for objects, by [Ulrich Hoffmann](https://github.com/uho)
 - Building A Wordle Tool Kit, by Bill Ragsdale
 - Zeptoforth news & the browser terminal, by Travis Bemann
