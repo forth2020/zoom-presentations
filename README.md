@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 26 - August 13th, 2022
 
-📽 [Recording of the meeting]()
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=3GM7S30VR50)
 
 - MECRISP Demo, by [Ulrich Hoffmann](https://github.com/uho)
 - [NOF a tiny file system for SPI Flash chips](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-08-13/noF_A_file-system_for_Flash.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
