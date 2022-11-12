@@ -2,7 +2,7 @@
 
 You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to the recordings, material presented (slidedeck,...), and links to the presenters.
 
-Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
+Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
 ## Meeting 29 - November 12th, 2022
 
