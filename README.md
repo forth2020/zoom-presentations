@@ -4,6 +4,37 @@ You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/)
 
+## Meeting 29 - November 12th, 2022
+
+📽 Recording of the meeting - *pending*
+
+- Isomax Forth on Isopod, by [Brad Rodriguez](https://www.bradrodriguez.com/)
+- My work on a sps30, by Jos Ven
+- Number to Text Conversion, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- FPGA ForthCPU Microcore real world applications. by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- ForthMobile updates, , by [Atle Ramsli](https://github.com/turnimator)
+- RPI Pio Assembler, by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
+- [ESP32 corner Asm & Disasm news](https://flagxor.github.io/svfig-talks/ftt-2022-11-12), by [Brad Nelson](https://github.com/flagxor)
+
+## Meeting 28 - Octobre 8th, 2022
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=VPVbARJ8QsA)
+
+This 28th meeting, our members showcased how they use Forth in their projects.
+
+- Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaky
+- Mecrisp Quintus Demo by Hans Bemeier
+- Grow your Programs, a way to develop in Forth, by Ulrich Hoffmann
+- Demo of "TV Broadcasting live with R3-Forth" by Pablo Reda
+- ["The day Esp32Forth spoke"](https://github.com/Esp32forth-org/peterforth/tree/main/speaks) demo by [PeterForth](https://github.com/PeterForth)
+- [Latest Esp32forth updates](https://flagxor.github.io/svfig-talks/ftt-2022-10-08/#0), by [Brad Nelson](https://github.com/flagxor)
+
+## Meeting 27 - Septembre 10th, 2022
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=crMZ5j8XSRQ)
+
+*Chat with Chuck Moore 2022*: the inventor of the Forth language and top  eminence of the Forth2020 group, Chuck Moore gifted us with this informal interview during our 27th monthly Zoom meeting.
+
 ## Meeting 26 - August 13th, 2022
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=3GM7S30VR50)
@@ -22,7 +53,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 - FRED Rapid Embedded Development for Mecrisp, by Peter Jackaky
 - [μForth cross-compiler, μCore's assembler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-07-09/uForth.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Data Structures in Forth: Let's go for objects, by [Ulrich Hoffmann](https://github.com/uho)
-- Building A Wordle Tool Kit, by Bill Ragsdale
+- Building A Wordle Tool Kit, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - Zeptoforth news & the browser terminal, by Travis Bemann
 - [Database for an Expert System](https://github.com/dicpeynado/simple-forth-expert), by [Demitri Peinado](https://github.com/dicpeynado)
 - Proving the Meta-II Compiler in 2 byte cell, by [François Laagel](https://github.com/frenchie68)
