@@ -8,11 +8,10 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ Recording of the meeting - *pending*
 
-- Isomax Forth on Isopod, by [Brad Rodriguez](https://www.bradrodriguez.com/)
 - My work on a sps30, by Jos Ven
 - Number to Text Conversion, by [Bill Ragsdale](https://github.com/BillRagsdale)
-- FPGA ForthCPU Microcore real world applications. by [Klaus Schleisiek](https://github.com/microCore-VHDL)
-- ForthMobile updates, , by [Atle Ramsli](https://github.com/turnimator)
+- [FPGA ForthCPU Microcore real world applications](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/uCore-Applications.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- ForthMobile updates, by [Atle Ramsli](https://github.com/turnimator)
 - RPI Pio Assembler, by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
 - [ESP32 corner Asm & Disasm news](https://flagxor.github.io/svfig-talks/ftt-2022-11-12), by [Brad Nelson](https://github.com/flagxor)
 
