@@ -1,6 +1,6 @@
 # FORTH2020 Zoom Meetings Presentations
 
-You will find here the agenda of previous FORTH2020 Zoom Meetings, with links to the recordings, material presented (slidedeck,...), and links to the presenters.
+You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with links to the recordings, material presented (slides...), and links to the presenters.
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
@@ -8,7 +8,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 📽 [Forth programming challenge](https://www.youtube.com/watch?v=QuyVRCUzmJg), by Peter Jackaki
 
-Peter presents several interesting submission from group members to his Forth Programming challenge of the month on the topic of text scrolling.
+Peter presents several interesting submissions from group members to his Forth Programming challenge of the month on the topic of text scrolling.
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=fHKnpDcqtUo)
 
