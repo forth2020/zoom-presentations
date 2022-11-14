@@ -6,9 +6,13 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 29 - November 12th, 2022
 
-📽 Recording of the meeting - *pending*
+📽 [Forth programming challenge](https://www.youtube.com/watch?v=QuyVRCUzmJg), by Peter Jackaki
 
-- My work on a sps30, by Jos Ven
+Peter presents several interesting submission from group members to his Forth Programming challenge of the month on the topic of text scrolling.
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=fHKnpDcqtUo)
+
+- SPS30 Air Quality sensor with Forth, by Jos Ven
 - Number to Text Conversion, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - [FPGA ForthCPU Microcore real world applications](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/uCore-Applications.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - ForthMobile updates, by [Atle Ramsli](https://github.com/turnimator)
@@ -21,7 +25,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 This 28th meeting, our members showcased how they use Forth in their projects.
 
-- Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaky
+- Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaki
 - Mecrisp Quintus Demo by Hans Bemeier
 - Grow your Programs, a way to develop in Forth, by Ulrich Hoffmann
 - Demo of "TV Broadcasting live with R3-Forth" by Pablo Reda
@@ -49,7 +53,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=f4TWdluKzh4)
 
-- FRED Rapid Embedded Development for Mecrisp, by Peter Jackaky
+- FRED Rapid Embedded Development for Mecrisp, by Peter Jackaki
 - [μForth cross-compiler, μCore's assembler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-07-09/uForth.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Data Structures in Forth: Let's go for objects, by [Ulrich Hoffmann](https://github.com/uho)
 - Building A Wordle Tool Kit, by [Bill Ragsdale](https://github.com/BillRagsdale)
@@ -103,7 +107,7 @@ Once again an incredible meeting, this time packed with lots of implementation r
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=krRV3ZVQ8Qs&t=7920s)
 
 * Demo of FORTH^3, by Scott McCallum
-* Rapid Prototyping and hardware debugging with Forth, by Peter Jackaky
+* Rapid Prototyping and hardware debugging with Forth, by Peter Jackaki
 * Benchmarks with Esp32forth, by [Jason C-J Tay](https://github.com/Trozodejamon)
 * VolksForth - 35 years later, by [Ulrich Hoffmann](https://github.com/uho)
 * [Colorforth in 2022](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-04-09/colorForth_Forth2020_cf2022_Presentation.pptx), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
