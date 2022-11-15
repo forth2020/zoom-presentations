@@ -12,7 +12,7 @@ Peter presents several interesting submissions from group members to his Forth P
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=fHKnpDcqtUo)
 
-- SPS30 Air Quality sensor with Forth, by Jos Ven
+- [SPS30 Air Quality sensor with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/SPS30-and-ESP32-under-Cforth.pptx), by Jos Ven
 - Number to Text Conversion, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - [FPGA ForthCPU Microcore real world applications](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/uCore-Applications.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - ForthMobile updates, by [Atle Ramsli](https://github.com/turnimator)
