@@ -4,6 +4,20 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+
+## Meeting 30 - December 10th, 2022
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=NVl_349eHrA)
+
+- [Isomax Forth history](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-12-10/isomax-history-dec2022.pdf), by [Brad Rodriguez](https://www.bradrodriguez.com/)
+- Recovering a Forth retro game Byte 1981, by Rick Carlino
+- Core1 Forth CPU, by Don Golding and [Demitri Peinado](https://github.com/dicpeynado)
+- Simulation and REPLIT, by [Rob Probin](http://zedcode.blogspot.com/)
+- So this is Christmas - ESP32forthStation, by [Ulrich Hoffmann](https://github.com/uho)
+- Home automation with ESP32forth, by Jan Langevaad
+- Development of an RC-servo library for Flashforth, by Christian Hinse
+- Open chat: expectations of Forth2020 group for 2023, by [Ulrich Hoffmann](https://github.com/uho) and [PeterForth](https://github.com/PeterForth)
+
 ## Meeting 29 - November 12th, 2022
 
 📽 [Forth programming challenge](https://www.youtube.com/watch?v=QuyVRCUzmJg), by Peter Jackaki
@@ -27,7 +41,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 
 - Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaki
 - Mecrisp Quintus Demo by Hans Bemeier
-- Grow your Programs, a way to develop in Forth, by Ulrich Hoffmann
+- Grow your Programs, a way to develop in Forth, by [Ulrich Hoffmann](https://github.com/uho)
 - Demo of "TV Broadcasting live with R3-Forth" by Pablo Reda
 - ["The day Esp32Forth spoke"](https://github.com/Esp32forth-org/peterforth/tree/main/speaks) demo by [PeterForth](https://github.com/PeterForth)
 - [Latest Esp32forth updates](https://flagxor.github.io/svfig-talks/ftt-2022-10-08/#0), by [Brad Nelson](https://github.com/flagxor)
@@ -81,7 +95,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 Spanish and Portuguese meeting, with a few english presentations.
 
 - Esp32Forth desenvolvimento de um jogo, by Ricardo Michel
-- Programando en Forth/R3, by [Pablo Hugo Reda](https://github.com/phreda4)			
+- Programando en Forth/R3, by [Pablo Hugo Reda](https://github.com/phreda4)
 - [Benchmarking ESP32forth](https://github.com/forth2020/Benchmarks/tree/main/esp32), by [Jason C-J Tay](https://github.com/Trozodejamon)
 - Handling interupts in Forth on ZXSpectrum, by [Matteo Vitturi](https://github.com/mattsteeldue)
 - ESP32-Superexpander board in Forth, by [Atle Ramsli](https://github.com/turnimator)
