@@ -5,6 +5,20 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
 
+## Meeting 31 - January 21st, 2023
+
+📽 [Recording of the meeting] pending publishing of the recording.
+
+- [Emu6502, a 65C02 emulator in Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
+- Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
+- [Robots](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Willem_Ouwerkerk_Robots_v2.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
+- Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- Multiple personalities of Quote ", by [Ulrich Hoffmann](https://github.com/uho)
+- ESP32forth on M5stack teaser, by [Jason C-J Tay](https://github.com/Trozodejamon)
+- A touch interface for ESP32forth, by Jan Langevad
+- [Fault handling in ESP32forth](https://flagxor.github.io/svfig-talks/ftt-2023-01-21/#0), by [Brad Nelson](https://github.com/flagxor)
+- Esp32-S3 and new TN display, by [PeterForth](https://github.com/PeterForth)
+
 ## Meeting 30 - December 10th, 2022
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=NVl_349eHrA)
@@ -42,7 +56,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 - Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaki
 - Mecrisp Quintus Demo by Hans Bemeier
 - Grow your Programs, a way to develop in Forth, by [Ulrich Hoffmann](https://github.com/uho)
-- Demo of "TV Broadcasting live with R3-Forth" by Pablo Reda
+- Demo of "TV Broadcasting live with R3-Forth" by [Pablo Reda](https://github.com/phreda4)
 - ["The day Esp32Forth spoke"](https://github.com/Esp32forth-org/peterforth/tree/main/speaks) demo by [PeterForth](https://github.com/PeterForth)
 - [Latest Esp32forth updates](https://flagxor.github.io/svfig-talks/ftt-2022-10-08/#0), by [Brad Nelson](https://github.com/flagxor)
 
