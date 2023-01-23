@@ -9,7 +9,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ [Recording of the meeting] pending publishing of the recording.
 
-- [Emu6502, a 65C02 emulator in Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
+- [Emu6502, a 65C02 emulator in Forth](../assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
 - [Robots](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Willem_Ouwerkerk_Robots_v2.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
 - Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
