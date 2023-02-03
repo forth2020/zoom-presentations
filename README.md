@@ -7,7 +7,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 31 - January 21st, 2023
 
-📽 [Recording of the meeting] pending publishing of the recording.
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=LUlam9L7BZo)
 
 - [Emu6502, a 65C02 emulator in Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
