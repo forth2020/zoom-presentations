@@ -27,7 +27,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 - Recovering a Forth retro game Byte 1981, by Rick Carlino
 - Core1 Forth CPU, by Don Golding and [Demitri Peinado](https://github.com/dicpeynado)
 - Simulation and REPLIT, by [Rob Probin](http://zedcode.blogspot.com/)
-- So this is Christmas - ESP32forthStation, by [Ulrich Hoffmann](https://github.com/uho)
+- [So this is Christmas - ESP32forthStation](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-12-10/So_this_is_Christmas-ESP32forthStation.pdf), by [Ulrich Hoffmann](https://github.com/uho)
 - Home automation with ESP32forth, by Jan Langevaad
 - Development of an RC-servo library for Flashforth, by Christian Hinse
 - Open chat: expectations of Forth2020 group for 2023, by [Ulrich Hoffmann](https://github.com/uho) and [PeterForth](https://github.com/PeterForth)
