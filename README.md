@@ -4,6 +4,23 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 35 - June 3rd, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=tRt280Q325M)
+
+This meeting starts several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+
+- Atle Bergstrom Lift solution in ESp32forth
+- James Norris Lift solution in Diaperglu Win64 Forth
+- Bill Ragsdale Lift solution in Win32forth
+
+The meeting then follows with some members' presentations:
+
+- Literate programming in Forth, by Wolf Wejgaard
+- [Poor man's compiler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-06-03/Poor_man's_compilers_foils.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- [NoForth](https://home.hccnet.nl/anij/nof/noforth.html) news, by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
+- Signing your Forth source, by [Ulrich Hoffmann](https://github.com/uho)
+- Quadrature Encoders in Mecrisp Bluepill for CNC, by Christian Hinse
 
 ## Meeting 32 - February 11th, 2023
 
