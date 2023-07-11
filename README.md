@@ -19,7 +19,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=tRt280Q325M)
 
-This meeting starts several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
 
 - Atle Bergstrom Lift solution in ESp32forth
 - James Norris Lift solution in Diaperglu Win64 Forth
@@ -32,6 +32,31 @@ The meeting then follows with some members' presentations:
 - [NoForth](https://home.hccnet.nl/anij/nof/noforth.html) news, by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
 - Signing your Forth source, by [Ulrich Hoffmann](https://github.com/uho)
 - Quadrature Encoders in Mecrisp Bluepill for CNC, by Christian Hinse
+
+## Meeting 34 - April 8th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=j6F9g-hO3G4)
+
+This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+
+- Peter Jakacki presents "the Elevator Challenge results"
+- Francois Laagel Lift solution on Forth Z79
+- Pablo Reda Lift solution in R3
+- George Orais Lift solution in ColorForth
+- Peter Forth Lift solution on ESp32Forth
+- Peter Jakacki Lift solution on TachyonForth
+- James Norris Lift solution on DiapergluForth
+- Matteo Vitturi Lift solution on SpectrumForth
+- Vladimir Gumenuk Lift solution on WinForth64
+
+The meeting then follows with some members' presentations:
+
+- Ulrich Hoffmann "VolksForth in the browser"
+- Ulrich Hoffmann "Project Forth Works"
+- Bill Ragsdale "Formatted Floats"
+- Howerd Oakford "Colorforth update"
+- Cecil Bayona "Step by Step compiling MinForth"
+- Don Golding "Update on Core1 and Kicad PCB"
 
 ## Meeting 32 - February 11th, 2023
 
