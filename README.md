@@ -4,6 +4,17 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 36 - July 8th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=pqhgPdtItjE)
+
+- Esp32forth Bluetooth communication, by Frank Russo
+- MicroMouse with Forth, by [Rob Probin](http://zedcode.blogspot.com/)
+- Arcade-game sounds on AY chip using .afx file format, by [Matteo Vitturi](https://github.com/mattsteeldue)
+- Structures of Vocabularies on Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- Esp32forth corner -- Dividing ESP32forth, by [Brad Nelson](https://github.com/flagxor)
+- FPGA Forth CPU uCore on Altera, workshop lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+
 ## Meeting 35 - June 3rd, 2023
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=tRt280Q325M)
@@ -12,7 +23,7 @@ This meeting starts several member's submission to the Elevator Challenge propos
 
 - Atle Bergstrom Lift solution in ESp32forth
 - James Norris Lift solution in Diaperglu Win64 Forth
-- Bill Ragsdale Lift solution in Win32forth
+- [Bill Ragsdale](https://github.com/BillRagsdale) Lift solution in Win32forth
 
 The meeting then follows with some members' presentations:
 
