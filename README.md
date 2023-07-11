@@ -13,7 +13,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 - Alloc and Malloc, how to get free memory from the OS, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - Introduction to Isomax, by [Brad Rodriguez](https://www.bradrodriguez.com/)
 - Figmy Forth, by [Julian Skidmore](https://github.com/Snial)
-- First steps with Zeptoforth, by Christian Hinse
+- [First steps with Zeptoforth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/Zeptoforth-PI_PICO-CH1.pdf), by Christian Hinse
 - Poor manÂ´s CASE, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Novix NC4000 PCB, by Mark Lacas
 
@@ -24,7 +24,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 - [Emu6502, a 65C02 emulator in Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Emu6502_2023.01.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
 - [Robots](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Willem_Ouwerkerk_Robots_v2.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
-- Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
+- [Win32forth](https://github.com/BillRagsdale/WIN32Forth-Guide), by [Bill Ragsdale](https://github.com/BillRagsdale)
 - Multiple personalities of Quote ", by [Ulrich Hoffmann](https://github.com/uho)
 - ESP32forth on M5stack teaser, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - A touch interface for ESP32forth, by Jan Langevad
