@@ -65,7 +65,6 @@ The meeting then follows with some members' presentations:
 - Porting ESP32forth to M5stack, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - Alloc and Malloc, how to get free memory from the OS, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - [Introduction to Isomax](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/isomax-tutorial-feb2023.pdf), by [Brad Rodriguez](https://www.bradrodriguez.com/)
-- Figmy Forth, by [Julian Skidmore](https://github.com/Snial)
 - [First steps with Zeptoforth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/Zeptoforth-PI_PICO-CH1.pdf), by Christian Hinse
 - Poor man´s CASE, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Novix NC4000 PCB, by Mark Lacas
