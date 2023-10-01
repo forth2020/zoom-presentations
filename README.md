@@ -8,14 +8,14 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ [Recording of the meeting](https://www.youtube.com/watch?v=cv-rtxEHAJo)
 
-- "My4th Forth TTL computer" by Dennis Kuschel
-- "The Agon SBC runs Fig Forth !" by Phil Waller
-- "volksForth CP/M auf dem Agon Light 2" by  Ulrich Hoffmann
-- "Qbots educational robots run ESP32forth" by Mindaugas Lunekas
+- [My4th Forth TTL computer](http://mynor.org/my4th), by [Dennis Kuschel](https://hackaday.io/Dennios)
+- The [Agon SBC](https://github.com/TheByteAttic/AgonLight) runs FIGForth!, by Phil Waller
+- VolksForth CP/M auf dem Agon Light 2, by [Ulrich Hoffmann](https://github.com/uho)
+- Qbots educational robots run ESP32forth, by [Mindaugas Luneckas](https://www.facebook.com/groups/2225595150855239/user/100027439270689/)
 - Robot Encoders (highlighting Forth Mathematics), by [Rob Probin](http://zedcode.blogspot.com/)
-- "Introducing 'PeriMan' - a Forth approach to Peripheral Management" by Michel Smart
-- "Colorforth news from the Inventio site"  by Howerd Oakford
-- FPGA Forth CPU uCore on Altera, workshop lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- Introducing 'PeriMan' - a Forth approach to Peripheral Management, by Michel Smart
+- [Colorforth news from the Inventio site](https://www.inventio.co.uk/cf2023/index.html), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2023/index.html)
+- FPGA Forth CPU uCore on Altera, workshop, lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 
 ## Meeting 36 - July 8th, 2023
 
