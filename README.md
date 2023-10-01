@@ -4,6 +4,19 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 38 - September 9th, 2023
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=cv-rtxEHAJo)
+
+- [Porting ESP32forth to the LilyGo T-Deck](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-09-09/PortingESP32forthToTheT-Deck.pdf), by [Jason C-J Tay](https://github.com/Trozodejamon)
+- My Forth implementation on the Agon SBC Z80, by [Lennart Benschop](https://lennartb.home.xs4all.nl/forth.html)
+- T-GPGA board, ASM for ESP32, Diaperglu & Forth news, by [James Norris](https://www.facebook.com/groups/2225595150855239/user/100002761059282)
+- Sorting tables in Forth, by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
+- Building the MyForth Nor computer, by John O Brian
+- The Evolution of CREATE DOES> Over Forty Years, by Bill Ragsdale
+- Conditional compilation with [IF] and friends, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+- FPGA Forth CPU uCore on Altera, workshop, lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
+
 ## Meeting 37 - August 12th, 2023
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=cv-rtxEHAJo)
@@ -21,7 +34,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=pqhgPdtItjE)
 
-- Esp32forth Bluetooth communication, by Frank Russo
+- [Esp32forth Bluetooth communication](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-07-08/ESP32Forth-Bluetooth.pdf), by Frank Russo
 - [MicroMouse controller with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-07-08/Micromouse_control1.pdf), by [Rob Probin](http://zedcode.blogspot.com/)
 - Arcade-game sounds on AY chip using .afx file format, by [Matteo Vitturi](https://github.com/mattsteeldue)
 - Vocabularies in Win32forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
@@ -32,10 +45,10 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=tRt280Q325M)
 
-This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
+This meeting starts with several member's submission to the Elevator Challenge proposed by [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826):
 
 - Atle Bergstrom Lift solution in ESp32forth
-- James Norris Lift solution in Diaperglu Win64 Forth
+- [James Norris](https://www.facebook.com/groups/2225595150855239/user/100002761059282) Lift solution in Diaperglu Win64 Forth
 - [Bill Ragsdale](https://github.com/BillRagsdale) Lift solution in Win32forth
 
 The meeting then follows with some members' presentations:
@@ -52,13 +65,13 @@ The meeting then follows with some members' presentations:
 
 This meeting starts with several member's submission to the Elevator Challenge proposed by Peter Jackaki:
 
-- Peter Jakacki presents "the Elevator Challenge results"
+- [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826) presents "the Elevator Challenge results"
 - Francois Laagel Lift solution on Forth Z79
 - Pablo Reda Lift solution in R3
 - George Orais Lift solution in ColorForth
-- Peter Forth Lift solution on ESp32Forth
-- Peter Jakacki Lift solution on TachyonForth
-- James Norris Lift solution on DiapergluForth
+- [PeterForth](https://github.com/PeterForth) Lift solution on ESp32Forth
+- [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826) Lift solution on TachyonForth
+- [James Norris](https://www.facebook.com/groups/2225595150855239/user/100002761059282) Lift solution on DiapergluForth
 - Matteo Vitturi Lift solution on SpectrumForth
 - Vladimir Gumenuk Lift solution on WinForth64
 
@@ -75,7 +88,7 @@ The meeting then follows with some members' presentations:
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=m9zw_I7x_iI)
 
-- Porting ESP32forth to M5stack, by [Jason C-J Tay](https://github.com/Trozodejamon)
+- [Porting ESP32forth to M5stack](https://github.com/Esp32forth-org/jasontay/tree/main/M5Stack), by [Jason C-J Tay](https://github.com/Trozodejamon)
 - Alloc and Malloc, how to get free memory from the OS, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - [Introduction to Isomax](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/isomax-tutorial-feb2023.pdf), by [Brad Rodriguez](https://www.bradrodriguez.com/)
 - [First steps with Zeptoforth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-02-11/Zeptoforth-PI_PICO-CH1.pdf), by Christian Hinse
@@ -90,7 +103,7 @@ The meeting then follows with some members' presentations:
 - Implementing PRINTF in Forth/R3, by [Pablo Reda](https://github.com/phreda4)
 - [Robots](https://github.com/forth2020/zoom-presentations/raw/main/assets/2023-01-21/Willem_Ouwerkerk_Robots_v2.pdf), by [Willem Ouwerkerk](https://home.hccnet.nl/willem.ouwerkerk/)
 - [Win32forth](https://github.com/BillRagsdale/WIN32Forth-Guide), by [Bill Ragsdale](https://github.com/BillRagsdale)
-- Multiple personalities of Quote ", by [Ulrich Hoffmann](https://github.com/uho)
+- Multiple personalities of Quote, by [Ulrich Hoffmann](https://github.com/uho)
 - ESP32forth on M5stack teaser, by [Jason C-J Tay](https://github.com/Trozodejamon)
 - A touch interface for ESP32forth, by Jan Langevad
 - [Fault handling in ESP32forth](https://flagxor.github.io/svfig-talks/ftt-2023-01-21/#0), by [Brad Nelson](https://github.com/flagxor)
@@ -101,7 +114,7 @@ The meeting then follows with some members' presentations:
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=NVl_349eHrA)
 
 - [Isomax Forth history](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-12-10/isomax-history-dec2022.pdf), by [Brad Rodriguez](https://www.bradrodriguez.com/)
-- Recovering a Forth retro game Byte 1981, by Rick Carlino
+- [Cosmic Conquest: Recovering a Forth retro game Byte 1981](https://rickcarlino.com/2021/resurrecting-a-40-year-old-forth-strategy-game.html), by [Rick Carlino](https://rickcarlino.com/)
 - Core1 Forth CPU, by Don Golding and [Demitri Peinado](https://github.com/dicpeynado)
 - Simulation and REPLIT, by [Rob Probin](http://zedcode.blogspot.com/)
 - [So this is Christmas - ESP32forthStation](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-12-10/So_this_is_Christmas-ESP32forthStation.pdf), by [Ulrich Hoffmann](https://github.com/uho)
@@ -111,13 +124,13 @@ The meeting then follows with some members' presentations:
 
 ## Meeting 29 - November 12th, 2022
 
-📽 [Forth programming challenge](https://www.youtube.com/watch?v=QuyVRCUzmJg), by Peter Jackaki
+📽 [Forth programming challenge](https://www.youtube.com/watch?v=QuyVRCUzmJg), by [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826)
 
 Peter presents several interesting submissions from group members to his Forth Programming challenge of the month on the topic of text scrolling.
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=fHKnpDcqtUo)
 
-- [SPS30 Air Quality sensor with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/SPS30-and-ESP32-under-Cforth.pptx), by Jos Ven
+- [SPS30 Air Quality sensor with Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/SPS30-and-ESP32-under-Cforth.pptx), by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
 - Number to Text Conversion, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - [FPGA ForthCPU Microcore real world applications](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-11-12/uCore-Applications.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - ForthMobile updates, by [Atle Ramsli](https://github.com/turnimator)
@@ -130,7 +143,7 @@ Peter presents several interesting submissions from group members to his Forth P
 
 This 28th meeting, our members showcased how they use Forth in their projects.
 
-- Demo of the Parallax P2 multicore MCU with Tachyon, by Peter Jackaki
+- Demo of the Parallax P2 multicore MCU with Tachyon, by [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826)
 - Mecrisp Quintus Demo by Hans Bemeier
 - Grow your Programs, a way to develop in Forth, by [Ulrich Hoffmann](https://github.com/uho)
 - Demo of "TV Broadcasting live with R3-Forth" by [Pablo Reda](https://github.com/phreda4)
@@ -158,7 +171,7 @@ This 28th meeting, our members showcased how they use Forth in their projects.
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=f4TWdluKzh4)
 
-- FRED Rapid Embedded Development for Mecrisp, by Peter Jackaki
+- FRED Rapid Embedded Development for Mecrisp, by [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826)
 - [μForth cross-compiler, μCore's assembler](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-07-09/uForth.pdf), by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - Data Structures in Forth: Let's go for objects, by [Ulrich Hoffmann](https://github.com/uho)
 - Building A Wordle Tool Kit, by [Bill Ragsdale](https://github.com/BillRagsdale)
@@ -212,13 +225,13 @@ Once again an incredible meeting, this time packed with lots of implementation r
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=krRV3ZVQ8Qs&t=7920s)
 
 * Demo of FORTH^3, by Scott McCallum
-* Rapid Prototyping and hardware debugging with Forth, by Peter Jackaki
+* Rapid Prototyping and hardware debugging with Forth, by [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826)
 * Benchmarks with Esp32forth, by [Jason C-J Tay](https://github.com/Trozodejamon)
 * VolksForth - 35 years later, by [Ulrich Hoffmann](https://github.com/uho)
 * [Colorforth in 2022](https://github.com/forth2020/zoom-presentations/raw/main/assets/2022-04-09/colorForth_Forth2020_cf2022_Presentation.pptx), by [Howerd Oakfoard](https://www.inventio.co.uk/cf2022/)
 * Forth Meets WalMart, by [Bill Ragsdale](https://github.com/BillRagsdale)
 * [News about  ESP32forth development](https://flagxor.github.io/svfig-talks/ftt-2022-04-09/) by [Brad Nelson](https://github.com/flagxor)
-* Forth2020 members show what they are working on, with Jos Ven , Jan Lagevaad, [PeterForth](https://github.com/PeterForth)
+* Forth2020 members show what they are working on, with [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/) , Jan Lagevaad, [PeterForth](https://github.com/PeterForth)
 
 ## Meeting 19 - March 12th, 2022
 
