@@ -13,8 +13,21 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 - OpenGL without floating point, by [Pablo Reda](https://github.com/phreda4)
 - A sneak preview of the NC4000 simulator, by Cornelius Keck
 - [Docker-Forth](https://github.com/uho/docker-forth/): Run numerous Forth systems w/o installation, by [Ulrich Hoffmann](https://github.com/uho)
-- C tokenizing and expression parsing in Dusk-OS, by Virgil Dupras
+- [C tokenizing and expression parsing in Dusk-OS](http://tumbleforth.hardcoded.net/01-duskcc/10-beast.html), by Virgil Dupras
 - [Multiport gates](https://github.com/Jos-Ven/A-smart-home-in-Forth/blob/main/study/multiport_gate.f), by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
+
+## Meeting 39 - October 14th, 2023
+
+ðŸ“½ [Recording of the meeting](https://www.youtube.com/watch?v=7sk80iLyN7I)
+
+Demo of my RTX-2000 board, by George Phillip Oraes
+Forth TTL Cpu, by Brad Rodriguez			
+[DUSKOS: a ForthOS with integrated C compiler](http://duskos.org/), by Virgil Dupras
+Forth is simple, but not easy, by [Pablo Reda](https://github.com/phreda4)
+Robot music, by [Rob Probin](http://zedcode.blogspot.com/)
+Forth Data Structures (Value Flavoured Structures), by [Ulrich Hoffmann](https://github.com/uho)
+[Still Trying to Meta-compile](https://flagxor.github.io/svfig-talks/ftt-2023-10-14/), by [Brad Nelson](https://github.com/flagxor)
+Teaching the world about Forth, by [Bill Ragsdale](https://github.com/BillRagsdale)
 
 ## Meeting 38 - September 9th, 2023
 
@@ -25,7 +38,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 - T-GPGA board, ASM for ESP32, Diaperglu & Forth news, by [James Norris](https://www.facebook.com/groups/2225595150855239/user/100002761059282)
 - Sorting tables in Forth, by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
 - Building the MyForth Nor computer, by John O Brian
-- The Evolution of CREATE DOES> Over Forty Years, by Bill Ragsdale
+- The Evolution of CREATE DOES> Over Forty Years, by [Bill Ragsdale](https://github.com/BillRagsdale)
 - Conditional compilation with [IF] and friends, by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 - FPGA Forth CPU uCore on Altera, workshop, lead by [Klaus Schleisiek](https://github.com/microCore-VHDL)
 
