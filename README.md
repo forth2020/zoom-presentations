@@ -4,6 +4,18 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 42 - February 10th, 2024
+
+📽 [Recording of the meeting] *Pending*
+
+- SKI Calculus: Minimal Formal Computation in AlexForth 6502, by [Alex Dumont](https://adumont.github.io/)
+- Programming a video game in Agon FORTH, by [Lennart Benschop](https://lennartb.home.xs4all.nl/forth.html)
+- OpenGL without floating point, by [Pablo Reda](https://github.com/phreda4)
+- A sneak preview of the NC4000 simulator, by Cornelius Keck
+- [Docker-Forth](https://github.com/uho/docker-forth/): Run numerous Forth systems w/o installation, by [Ulrich Hoffmann](https://github.com/uho)
+- C tokenizing and expression parsing in Dusk-OS, by Virgil Dupras
+- [Multiport gates](https://github.com/Jos-Ven/A-smart-home-in-Forth/blob/main/study/multiport_gate.f), by [Jos Ven](https://www.facebook.com/groups/2225595150855239/user/100028548341307/)
+
 ## Meeting 38 - September 9th, 2023
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=cv-rtxEHAJo)
@@ -67,7 +79,7 @@ This meeting starts with several member's submission to the Elevator Challenge p
 
 - [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826) presents "the Elevator Challenge results"
 - Francois Laagel Lift solution on Forth Z79
-- Pablo Reda Lift solution in R3
+- [Pablo Reda](https://github.com/phreda4) Lift solution in R3
 - George Orais Lift solution in ColorForth
 - [PeterForth](https://github.com/PeterForth) Lift solution on ESp32Forth
 - [Peter Jakacki](https://www.facebook.com/groups/2225595150855239/user/100001403722826) Lift solution on TachyonForth
