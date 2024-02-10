@@ -8,7 +8,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) â–
 
 ðŸ“½ [Recording of the meeting] *Pending*
 
-- SKI Calculus: Minimal Formal Computation in AlexForth 6502, by [Alex Dumont](https://adumont.github.io/)
+- [SKI Calculus: Minimal Formal Computation in AlexForth 6502](https://github.com/forth2020/zoom-presentations/raw/main/assets/2024-02-10/SKI Calculus in AlexForth 6502 - Forth2020 #42 240210.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Programming a video game in Agon FORTH, by [Lennart Benschop](https://lennartb.home.xs4all.nl/forth.html)
 - OpenGL without floating point, by [Pablo Reda](https://github.com/phreda4)
 - A sneak preview of the NC4000 simulator, by Cornelius Keck
