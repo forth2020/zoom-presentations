@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 42 - February 10th, 2024
 
-📽 [Recording of the meeting] *Pending*
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=Stpc9XC-GV8)
 
 - [SKI Calculus: Minimal Formal Computation in AlexForth 6502](https://github.com/forth2020/zoom-presentations/raw/main/assets/2024-02-10/SKI_Calculus_AlexForth6502_Forth2020-240210.pdf), by [Alex Dumont](https://adumont.github.io/)
 - Programming a video game in Agon FORTH, by [Lennart Benschop](https://lennartb.home.xs4all.nl/forth.html)
