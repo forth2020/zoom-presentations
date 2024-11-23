@@ -4,6 +4,13 @@ You will find here the agenda of past FORTH2020 monthly Zoom Meetings, with link
 
 Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) ▫ [FORTH2020 Web Page](https://www.forth2020.org/) ▫ [ESP32Forth Projects](https://esp32.forth2020.org/home)
 
+## Meeting 50 - November 9th, 2024
+
+📽 [Recording of the meetings](https://www.youtube.com/@Forth2020/videos)
+
+- [RISC-V assembly for cross compiling Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2024-09-11/RISC-V assembly Forth.pdf), by Rob Probin
+
+
 ## Meeting 42 - February 10th, 2024
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=Stpc9XC-GV8)
