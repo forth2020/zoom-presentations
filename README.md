@@ -10,6 +10,22 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 - [RISC-V assembly for cross compiling Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2024-11-09/RISC-V_assembly_Forth.pdf), by Rob Probin
 
+## Meeting 49 - September 14th, 2024
+
+📽 [Recording of the meeting, Part 1](https://www.youtube.com/watch?v=t_MKAeNwMkI) and [Part 2](https://www.youtube.com/watch?v=b6qCcy-mBPU)
+
+## Meeting 47 - July 13th, 2024
+
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=-59URq1AKxw)
+
+- Kolorscript, by George Phillip Orais
+- CANON CAT, by Liam Proven
+- Zeptoscript - a dynamic Forthy language, Travis Bemann
+- Zx Spectrum Next connects to Raspberry Pi 0 in Forth, by Matteo Vitturi
+- Colorforth, by Brad Nelson
+- RTX2000 simulator, by Cornelius Keck
+- NEED Words and Define Source Libs, by Ulrich Hoffmann
+
 ## Meeting 44 - April 13th, 2024
 
 📽 [Recording of the meeting](https://www.youtube.com/watch?v=AIVXG-0hFjk)
