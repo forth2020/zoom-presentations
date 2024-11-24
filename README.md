@@ -6,7 +6,7 @@ Links: [FORTH2020 Facebook Group](https://www.facebook.com/groups/forth2020/) �
 
 ## Meeting 50 - November 9th, 2024
 
-📽 [Recording of the meetings](https://www.youtube.com/@Forth2020/videos)
+📽 [Recording of the meeting](https://www.youtube.com/watch?v=2DROiNV9Obc)
 
 - [RISC-V assembly for cross compiling Forth](https://github.com/forth2020/zoom-presentations/raw/main/assets/2024-11-09/RISC-V_assembly_Forth.pdf), by Rob Probin
 
